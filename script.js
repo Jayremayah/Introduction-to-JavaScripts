@@ -5,10 +5,24 @@
 // let country = "Nigeria";
 // console.log(height, myname, country)
 
+// alert('hello world');
+// console.log('welcome to zuri')
+
 let foodForTheWeek = ['yam', 'bread', 'garri', 'tamba',]
 
 console.table(foodForTheWeek)
 
-for (let i = 0; i <5; i += 1) {
-    console.log(i)
+// let num = 0
+
+// for (let i = 0; i <31; i += 1) {
+//     num += i;
+// } {
+//     console.log(num)
+// } 
+
+let i = 1;
+
+while (i < 10) {
+    console.log(i);
+    i++;
 }
